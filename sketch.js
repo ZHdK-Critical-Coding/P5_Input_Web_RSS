@@ -39,8 +39,6 @@ function draw() {
 
   // Iterate through all feed items and display them
   items.forEach(item => {
-    console.log(item); // log item for debugging
-
     // Display item details
     text(item.title, 20, offset + 20);
     text(item.date, 20, offset + 40);

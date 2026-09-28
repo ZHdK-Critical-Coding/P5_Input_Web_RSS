@@ -13,15 +13,17 @@ verwenden.
 Voraussetzungen: ein Browser und eine Internetverbindung (der Feed wird über
 einen öffentlichen Proxy geladen).
 
-1. In `sketch.js` oben die Feed-URL in `RSS_URL` eintragen (Standard: NZZ
-   Neueste Meldungen).
-2. Den Ordner in Visual Studio Code öffnen und Live Server starten (in der
-   Statusleiste auf **Go Live** klicken).
-3. Die Einträge erscheinen auf der Zeichenfläche und werden zusätzlich in
-   der Konsole ausgegeben.
+In `sketch.js` oben die Feed-URL in `RSS_URL` eintragen (Standard: NZZ
+Neueste Meldungen).
 
 Bibliotheken (in `libraries/`): p5.js 1.10.0, p5.sound 1.0.1 (eingebunden,
 nicht verwendet).
+
+## Ausführen
+
+1. Den Ordner in Visual Studio Code öffnen und Live Server starten (in der
+   Statusleiste auf **Go Live** klicken).
+2. Die Einträge erscheinen auf der Zeichenfläche.
 
 ## Coding-Hilfe
 
